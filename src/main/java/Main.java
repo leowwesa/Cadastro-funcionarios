@@ -8,7 +8,7 @@ import java.util.Scanner;
             public static void main(String[] args) {
                 Scanner scan = new Scanner(System.in);
 
-                    System.out.println("Bem vindo ao BB (Banco Batman)");
+                    System.out.println("Bem vindo ao sistema de cadastro");
                     System.out.println("==================================");
                     int opcao = -1;
                     do {
